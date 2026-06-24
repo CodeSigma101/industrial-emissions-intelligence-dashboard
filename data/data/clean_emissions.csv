@@ -1,0 +1,15 @@
+Year,Country,Region,Sector,Emissions_Mt
+2020,China,Asia,Steel,1200
+2025,China,Asia,Steel,1350
+2020,China,Asia,Cement,850
+2025,China,Asia,Cement,900
+2020,Germany,Europe,Steel,45
+2025,Germany,Europe,Steel,38
+2020,Germany,Europe,Energy,120
+2025,Germany,Europe,Energy,95
+2020,United States,Americas,Energy,1500
+2025,United States,Americas,Energy,1380
+2020,United States,Americas,Steel,80
+2025,United States,Americas,Steel,72
+2020,South Africa,Africa,Steel,18
+2025,South Africa,Africa,Steel,19
