@@ -1,4 +1,5 @@
 # Industrial Emissions Intelligence Dashboard
+#### Live Dashboard:https://industrial-emissions-intelligence-dashboard-ftlacuene6juwvnhzf.streamlit.app/
 
 An interactive data analytics platform exploring global industrial greenhouse gas emissions trends. Built with Python, Pandas, and Streamlit to demonstrate data cleaning, exploratory analysis, visualization, and corporate insight generation for sustainability-focused decision making.
 
